@@ -1,0 +1,5 @@
+Both Ready privacy
+
+Both Ready stores the current pose on this phone. The pose is which of the six poses is open, and whether the kid and the grandparent have tapped ready.
+
+The app does not collect personal data. It does not use an account, ads, a camera, or a network connection. Nothing is sent off the phone.
