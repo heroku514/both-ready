@@ -8,3 +8,6 @@
 - Release simulator build succeeded. Regression 72 checks ALL PASS on `com.peakermap.bothready` build 1.
 - Bundle id resource `KX6GWG5GQK` registered for `com.peakermap.bothready`.
 - Copied three 1320×2868 screenshots into `fastlane/screenshots/en-US`.
+- Created the App Store record `6818769615` with the name Both Ready. Categories Education and Lifestyle. Age rating is none.
+- Uploaded the IPA and the three screenshots. Attached build `50fcf160-d27f-4e0a-acd0-96e27f793fa3`.
+- Submitted for review. Submission `d1e60a39-7203-4d1e-b481-b3959b6e8a10` is Waiting for Review.
